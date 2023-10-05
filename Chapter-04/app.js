@@ -3,7 +3,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import FoodFireLogo from "./2021-09-07.png";
+import FoodFireLogo from "../Images/Food Fire Logo.png";
 
 /* My Food App structure will look like this, 
             1) Header
