@@ -3,8 +3,6 @@
 // hlo.innerHTML="namaste!";
 // const root=document.getElementById('root')
 // root.appendChild(hlo)
-import React from 'react';
-import ReactDOM from'react-dom'
 const heading = React.createElement(
     "h1",
     {
